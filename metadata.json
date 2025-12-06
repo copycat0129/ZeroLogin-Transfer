@@ -1,0 +1,5 @@
+{
+  "name": "BoltShare P2P",
+  "description": "Ultra-fast, secure, serverless peer-to-peer file transfer directly in your browser using WebRTC.",
+  "requestFramePermissions": []
+}
